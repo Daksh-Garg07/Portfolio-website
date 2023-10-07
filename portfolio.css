@@ -1,0 +1,49 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0;
+    height: 80px;
+    font-size: 28px;
+}
+h1 {
+    font-size: 3rem;
+}
+/* Style section headings */
+h2 {
+    color: #333;
+}
+/* Style the main sections */
+.section-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+.sec {
+    font-size: 21px;
+    text-decoration: underline;
+}
+.para {
+    font-size: 18px;
+}
+img {
+    margin-bottom: -4px;
+    width: 31px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
